@@ -13,3 +13,6 @@ https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 Predicting MPG for car dataset:
 https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 
+Instabul Stock Exchange:
+https://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE#
+
