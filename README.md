@@ -16,3 +16,5 @@ https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 Instabul Stock Exchange:
 https://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE#
 
+Behavior Determinant Based Cervical Cancer Early Detection:
+https://archive.ics.uci.edu/ml/datasets/Cervical+Cancer+Behavior+Risk
